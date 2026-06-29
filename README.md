@@ -144,7 +144,7 @@ Optimized to run efficiently on CPU without requiring GPU resources.
 
 ## 🧠 AI Workflow Architecture
 
-![Workflow](Images/model-workflow.png)
+![Workflow](https://github.com/atharva1727/kidsafe-vision-Ai/blob/main/AI%20(2).jpg)
 
 ---
 
