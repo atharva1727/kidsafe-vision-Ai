@@ -156,7 +156,7 @@ Optimized to run efficiently on CPU without requiring GPU resources.
 
 ## 📊 Model Performance Dashboard
 
-![Performance](Images/performance-metrics.png)
+![Performance](https://github.com/atharva1727/kidsafe-vision-Ai/blob/main/AI.jpg)
 
 ---
 
