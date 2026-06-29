@@ -1,7 +1,7 @@
 # 🧠 KidSafe Vision AI – Intelligent Child Safety Image Classifier
 
 <p align="center">
-<img src="Images/model-workflow.png" width="1000"/>
+<img src="https://github.com/atharva1727/kidsafe-vision-Ai/blob/main/AI.png" width="1000"/>
 </p>
 
 <h1 align="center">KidSafe Vision AI</h1>
