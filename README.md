@@ -1,3 +1,273 @@
+# 🧠 KidSafe Vision AI – Intelligent Child Safety Image Classifier
+
+<p align="center">
+<img src="Images/model-workflow.png" width="1000"/>
+</p>
+
+<h1 align="center">KidSafe Vision AI</h1>
+
+<h3 align="center">
+🚀 AI-Powered Content Safety System for Children
+</h3>
+
+<p align="center">
+Protecting children from harmful visual content using Machine Learning and Computer Vision
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3.10-blue"/>
+<img src="https://img.shields.io/badge/Flask-WebApp-success"/>
+<img src="https://img.shields.io/badge/AI-MachineLearning-orange"/>
+<img src="https://img.shields.io/badge/ComputerVision-ImageClassification-purple"/>
+<img src="https://img.shields.io/badge/Status-Completed-brightgreen"/>
+<img src="https://img.shields.io/badge/Accuracy-94.3%25-red"/>
+
+</p>
+
+---
+
+# 📌 Overview
+
+KidSafe Vision AI is an intelligent image classification system designed to create a safer digital environment for children.
+
+Children frequently encounter harmful or inappropriate content while browsing websites, social media platforms, or mobile applications. Traditional filtering approaches often struggle to identify visual content accurately and at scale.
+
+KidSafe Vision uses Machine Learning and Computer Vision techniques to automatically analyze images and classify them as:
+
+✅ SAFE
+
+❌ UNSAFE
+
+The system instantly provides prediction results with confidence scores, enabling real-time content moderation and child protection.
+
+---
+
+# 🌟 Problem Statement
+
+Children frequently encounter:
+
+- Violent imagery
+- Disturbing visual content
+- Harmful online media
+- Inappropriate digital material
+
+Current systems often require manual moderation which is:
+
+❌ Slow
+
+❌ Expensive
+
+❌ Difficult to scale
+
+KidSafe Vision provides an automated AI-powered solution.
+
+---
+
+# 🎯 Objectives
+
+✔ Build a child safety image classifier
+
+✔ Binary classification (Safe / Unsafe)
+
+✔ Real-time image prediction
+
+✔ High accuracy with minimal false positives
+
+✔ Interactive web interface
+
+✔ Fast CPU-based deployment
+
+---
+
+# ⚡ Technology Stack
+
+## Programming Language
+
+- Python 3.10
+
+## Framework
+
+- Flask
+
+## Machine Learning Models
+
+- Random Forest
+- Support Vector Machine (SVM)
+- Gradient Boosting
+
+## AI Domain
+
+- Machine Learning
+- Computer Vision
+- Image Classification
+
+## Deployment
+
+- Render
+
+---
+
+# 🔥 Core Features
+
+### 🧠 Intelligent Image Classification
+
+Analyzes uploaded images and determines whether content is safe or unsafe.
+
+---
+
+### ⚡ Real-Time Prediction
+
+Fast inference with response time below 200 milliseconds.
+
+---
+
+### 📊 Confidence Scoring
+
+Returns prediction probabilities for better transparency.
+
+---
+
+### 🖥 Interactive Web Interface
+
+Simple and user-friendly interface for testing images.
+
+---
+
+### 🚀 Lightweight Deployment
+
+Optimized to run efficiently on CPU without requiring GPU resources.
+
+---
+
+# 📷 Project Preview
+
+## 🧠 AI Workflow Architecture
+
+![Workflow](Images/model-workflow.png)
+
+---
+
+## ⚡ Prediction Interface
+
+![Interface](Images/prediction-interface.png)
+
+---
+
+## 📊 Model Performance Dashboard
+
+![Performance](Images/performance-metrics.png)
+
+---
+
+# 🏗 System Workflow
+
+User Uploads Image
+
+⬇
+
+Image Preprocessing
+
+⬇
+
+Feature Extraction
+
+⬇
+
+ML Model Prediction
+
+⬇
+
+Confidence Score Generation
+
+⬇
+
+SAFE / UNSAFE Result
+
+---
+
+# 📈 Model Performance
+
+| Metric | Score |
+|----------|---------|
+| Accuracy | 94.3% |
+| Precision | 0.93 |
+| Recall | 0.91 |
+| F1 Score | 0.93 |
+| False Positive Rate | 5.7% |
+| Inference Speed | ~150ms |
+
+---
+
+# 🌍 Potential Applications
+
+### 👨‍👩‍👧 Parental Control Systems
+
+Filter unsafe content before children access it.
+
+### 🏫 Educational Platforms
+
+Provide secure learning environments.
+
+### 📱 Social Media Platforms
+
+Automate content moderation.
+
+### 🌐 Browser Extensions
+
+Enable real-time web filtering.
+
+### 🛡 Government & NGOs
+
+Support child online safety initiatives.
+
+---
+
+# 🚀 Future Enhancements
+
+### Multi-Class Classification
+
+Detect:
+
+- Violence
+- Hate symbols
+- Drug-related content
+- Adult content
+
+### Video Analysis
+
+Frame-by-frame live detection.
+
+### Browser Extension
+
+Real-time webpage filtering.
+
+### Federated Learning
+
+Improve privacy without sharing user data.
+
+### Multi-modal AI
+
+Combine image and text understanding.
+
+---
+
+# 👨‍💻 Author
+
+**Atharv Shevate**
+
+AI & Full Stack Developer | Machine Learning Enthusiast | Computer Engineer
+
+---
+
+<p align="center">
+
+⭐ If you found this project useful, consider giving it a star ⭐
+
+</p>
+
+
+
 # Child Safety Image Classifier
 
 > **Model Used:** EfficientNetB0 (Transfer Learning from ImageNet)  
