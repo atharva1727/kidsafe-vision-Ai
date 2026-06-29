@@ -150,7 +150,7 @@ Optimized to run efficiently on CPU without requiring GPU resources.
 
 ## ⚡ Prediction Interface
 
-![Interface](Images/prediction-interface.png)
+![Interface](https://github.com/atharva1727/kidsafe-vision-Ai/blob/main/AI%20(3).jpg)
 
 ---
 
@@ -268,12 +268,14 @@ AI & Full Stack Developer | Machine Learning Enthusiast | Computer Engineer
 
 
 
+
 # Child Safety Image Classifier
 
 > **Model Used:** EfficientNetB0 (Transfer Learning from ImageNet)  
 > **Expected Accuracy:** 90%+ with a balanced dataset of 500+ images per class
 
 ---
+
 
 ## Model Architecture
 
@@ -293,6 +295,7 @@ Dense(128, ReLU) → Dropout(0.3)
 Dense(1, Sigmoid)  →  0 = SAFE  |  1 = UNSAFE
 ```
 
+
 ### Why EfficientNetB0?
 - Pretrained on 1.2M ImageNet images — excellent visual feature extraction
 - Compact yet powerful (5.3M params)
@@ -300,6 +303,7 @@ Dense(1, Sigmoid)  →  0 = SAFE  |  1 = UNSAFE
 - Scales efficiently (no need for a GPU farm)
 
 ---
+
 
 ## Dataset Setup
 
